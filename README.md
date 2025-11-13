@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Filip, a data platform engineer based in Poland.
+
+I desing and build scalable data solutions.
+
+My main stack is SQL, Python & Microsoft Fabric, but i want to learn also Databricks & Azure.
+
 <!--
 **Daron1121/Daron1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
